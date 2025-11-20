@@ -1,2 +1,3 @@
 This is second txt file
-Changed By feature 2
+Changed By feature1
+Changed By feature 2 after merge resolve
